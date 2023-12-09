@@ -6,3 +6,4 @@ nlp_rake
 wordcloud
 pytz
 scipy
+scikit-learn
