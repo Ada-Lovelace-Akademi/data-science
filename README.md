@@ -21,3 +21,9 @@
 - [Iris Data](week-3/3-iris-data.ipynb)
 - [Dataviz](week-3/3-dataviz.ipynb)
 - [Dataviz Exercise](week-3/3-dataviz-group-exercise.ipynb)
+
+## Week 4
+- [Web Scraping](week-4/4-web-scraping.ipynb)
+- [Web Scraping Exercise](week-4/4-group-exercise.ipynb)
+- [Intro to API](week-4/4-api-intro.ipynb)
+- [Exercise with Youtube API](week-4/4-api-youtube.ipynb)

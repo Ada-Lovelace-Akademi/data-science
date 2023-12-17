@@ -7,3 +7,4 @@ wordcloud
 pytz
 scipy
 scikit-learn
+beautifulsoup4
