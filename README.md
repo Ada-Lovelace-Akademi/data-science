@@ -27,3 +27,8 @@
 - [Web Scraping Exercise](week-4/4-group-exercise.ipynb)
 - [Intro to API](week-4/4-api-intro.ipynb)
 - [Exercise with Youtube API](week-4/4-api-youtube.ipynb)
+
+## Week 5
+- [`__name__` and `__main__`](week-5/5-modules.ipynb)
+- [Lesson for youtube-api-project](week-5/5-lesson.ipynb)
+- New project: [youtube-api-project](https://github.com/Ada-Lovelace-Akademi/youtube-api-project)
