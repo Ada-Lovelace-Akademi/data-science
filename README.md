@@ -32,3 +32,9 @@
 - [`__name__` and `__main__`](week-5/5-modules.ipynb)
 - [Lesson for youtube-api-project](week-5/5-lesson.ipynb)
 - New project: [youtube-api-project](https://github.com/Ada-Lovelace-Akademi/youtube-api-project)
+
+## Week 6
+- [Intro to Machine Learning](week-6/6-machine-learning-intro.ipynb)
+- [Intro to Regression Models](week-6/6-regression-intro.ipynb)
+- [Linear Regression Examples](week-6/6-example.ipynb)
+- [SQLite Example](week-6/6-sqlite.ipynb)
