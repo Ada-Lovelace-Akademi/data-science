@@ -38,3 +38,10 @@
 - [Intro to Regression Models](week-6/6-regression-intro.ipynb)
 - [Linear Regression Examples](week-6/6-example.ipynb)
 - [SQLite Example](week-6/6-sqlite.ipynb)
+
+## Week 7
+- [Model Evaluation in Regression Models](week-7/7-model-evaluation.ipynb)
+- [Intro to Non-Linear Regression](week-7//7-non-linear-regression.ipynb)
+- [Polynomial Regression](week-7/7-polynomial-regression.ipynb)
+- [Non-Linear Regression Examples](week-7/7-example.ipynb)
+- [K-Nearest Neighbors](week-7/7-knn.ipynb)
