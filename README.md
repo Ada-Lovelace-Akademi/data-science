@@ -4,9 +4,9 @@
 ## Week 1
 - [Example 1](week-1/1-example1.ipynb)
 - [Example 2](week-1/1-example2.ipynb)
+- Introduction to GIT & Github
 - [Python Intro](week-1/1-python-intro.ipynb)
 - [Python Data Types](week-1/1-python-data-types.ipynb)
-
 
 ## Week 2
 - [Solutions for Exercise](exercises/week-1-exercise.ipynb)
@@ -45,3 +45,12 @@
 - [Polynomial Regression](week-7/7-polynomial-regression.ipynb)
 - [Non-Linear Regression Examples](week-7/7-example.ipynb)
 - [K-Nearest Neighbors](week-7/7-knn.ipynb)
+- [Evaluation Metrics for Classifiers](week-7/7-evaluation-metrics.ipynb)
+- [Intro to Decision Trees](week-7/7-decision-trees.ipynb)
+- [Decision Tree Exercise](week-7/7-dt-example.ipynb)
+
+## Week 8
+
+- [Logistic Regression](week-8/8-logistic-regression.ipynb)
+- [Support Vector Machines](week-8/9-support-vector-machines.ipynb)
+- Preliminary analysis of final projects
